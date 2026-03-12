@@ -30,7 +30,7 @@ export const DATA = {
       period: "Sep 2024 - Nov 2024",
       location: "Mysuru, Karnataka",
       url: "https://www.doxor.in/",
-      logo: "/assets/doxor_logo.jpg",
+      logo: "assets/doxor_logo.jpg",
       points: [
         "Built reusable React components improving caching and persistence across modules.",
         "Structured responsive authentication and dashboard interfaces, improving load time by 40%.",
@@ -43,7 +43,7 @@ export const DATA = {
       period: "May 2022 - May 2024",
       location: "Erode, Tamil Nadu",
       url: "https://pfdigital.in/",
-      logo: "/assets/pf_digital_logo.png",
+      logo: "assets/pf_digital_logo.png",
       points: [
         "Engineered scalable applications using Express.js and React, improving API response times by 30%.",
         "Integrated MuleSoft and Salesforce LWC components, increasing workflow efficiency by 20%.",
@@ -74,7 +74,7 @@ export const DATA = {
       points: [
         "Automated data synchronization via MuleSoft APIs reducing manual effort by 50%."
       ],
-      logo: "/assets/fsb_logo.png"
+      logo: "assets/fsb_logo.png"
     },
     {
       title: "DOXOR",
@@ -86,7 +86,7 @@ export const DATA = {
         "Integrated authorization and MS microservice for authentication.",
         "Boosted loading performance by 30% with Vite."
       ],
-      logo: "/assets/doxor_logo.jpg"
+      logo: "assets/doxor_logo.jpg"
     },
     {
       title: "GN1917",
@@ -98,7 +98,7 @@ export const DATA = {
         "Build database with MongoDB boosted querying performance up to 15%.",
         "Utilized MUI components in UI and dev Operations monitored in AWS S3."
       ],
-      logo: "/assets/gn_logo.png"
+      logo: "assets/gn_logo.png"
     },
     {
       title: "Portfolio v2",
@@ -109,7 +109,7 @@ export const DATA = {
         "Implemented smooth animations and responsive design.",
         "Optimized for performance and SEO."
       ],
-      logo: "/assets/pf_digital_logo.png"
+      logo: "assets/pf_digital_logo.png"
     }
   ],
   certifications: [

@@ -81,7 +81,7 @@ const Hero = () => {
         >
           <div className="relative z-10 rounded-[2rem] md:rounded-[2.5rem] overflow-hidden border border-slate-800 shadow-2xl aspect-[4/5] group w-[70%] lg:w-[80%]">
             <img 
-              src="/assets/professional_pic.jpg"
+              src="assets/professional_pic.jpg"
               alt={DATA.name}
               className="w-full h-full object-cover transition-all duration-700 scale-105 group-hover:scale-100"
               referrerPolicy="no-referrer"
